@@ -173,6 +173,7 @@
       <DependentUpon>RegisterSuccess.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Code\Controller\ControllerMantenimientos\ClsControllerCliente.cs" />
+    <Compile Include="App_Code\Controller\ControllerMantenimientos\ClsControllerProducto.cs" />
     <Compile Include="App_Code\Dal\ClsConexion.cs" />
     <Compile Include="App_Code\Dal\ClsController.cs" />
     <Compile Include="App_Code\Dal\ClsDataLayer.cs" />
