@@ -99,3 +99,4 @@ C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\
 C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\obj\Debug\DXWebApplication.dll.licenses
 C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\obj\Debug\DXWebApplication.dll
 C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\obj\Debug\DXWebApplication.pdb
+C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\obj\Debug\DXWebApplication.csprojResolveAssemblyReference.cache

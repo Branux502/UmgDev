@@ -180,7 +180,7 @@
     <Compile Include="App_Code\Dal\DaoMantenimientos\ClsDaoCliente.cs" />
     <Compile Include="App_Code\Dal\DaoMantenimientos\ClsDaoProducto.cs" />
     <Compile Include="App_Code\Models\ClsCliente.cs" />
-    <Content Include="App_Code\Models\ClsProducto.cs" />
+    <Compile Include="App_Code\Models\ClsProducto.cs" />
     <Compile Include="App_Code\Utilidades\ClsErrorHandler.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
