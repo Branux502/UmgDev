@@ -107,6 +107,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="WebForms\Mantenimientos\Cliente\WebCliente.aspx" />
+    <Content Include="WebForms\Mantenimientos\Producto\WebProducto.aspx" />
     <None Include="Scripts\jquery-1.9.0.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -176,6 +177,7 @@
     <Compile Include="App_Code\Dal\ClsController.cs" />
     <Compile Include="App_Code\Dal\ClsDataLayer.cs" />
     <Compile Include="App_Code\Dal\DaoMantenimientos\ClsDaoCliente.cs" />
+    <Compile Include="App_Code\Dal\DaoMantenimientos\ClsDaoProducto.cs" />
     <Compile Include="App_Code\Models\ClsCliente.cs" />
     <Compile Include="App_Code\Utilidades\ClsErrorHandler.cs" />
     <Compile Include="Default.aspx.cs">
@@ -216,6 +218,13 @@
     </Compile>
     <Compile Include="WebForms\Mantenimientos\Cliente\WebCliente.aspx.designer.cs">
       <DependentUpon>WebCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForms\Mantenimientos\Producto\WebProducto.aspx.cs">
+      <DependentUpon>WebProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForms\Mantenimientos\Producto\WebProducto.aspx.designer.cs">
+      <DependentUpon>WebProducto.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
