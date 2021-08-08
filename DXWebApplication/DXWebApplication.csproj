@@ -106,6 +106,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="WebForms\Mantenimientos\Biblioteca\StyleBiblioteca.css" />
+    <Content Include="WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx" />
     <Content Include="WebForms\Mantenimientos\Cliente\WebCliente.aspx" />
     <Content Include="WebForms\Mantenimientos\Producto\WebProducto.aspx" />
     <None Include="Scripts\jquery-1.9.0.intellisense.js" />
@@ -172,13 +174,16 @@
     <Compile Include="Account\RegisterSuccess.aspx.designer.cs">
       <DependentUpon>RegisterSuccess.aspx</DependentUpon>
     </Compile>
+    <Compile Include="App_Code\Controller\ControllerMantenimientos\ClsControllerBiblioteca.cs" />
     <Compile Include="App_Code\Controller\ControllerMantenimientos\ClsControllerCliente.cs" />
     <Compile Include="App_Code\Controller\ControllerMantenimientos\ClsControllerProducto.cs" />
     <Compile Include="App_Code\Dal\ClsConexion.cs" />
     <Compile Include="App_Code\Dal\ClsController.cs" />
     <Compile Include="App_Code\Dal\ClsDataLayer.cs" />
+    <Compile Include="App_Code\Dal\DaoMantenimientos\ClsDaoBiblioteca.cs" />
     <Compile Include="App_Code\Dal\DaoMantenimientos\ClsDaoCliente.cs" />
     <Compile Include="App_Code\Dal\DaoMantenimientos\ClsDaoProducto.cs" />
+    <Compile Include="App_Code\Models\ClsBiblioteca.cs" />
     <Compile Include="App_Code\Models\ClsCliente.cs" />
     <Compile Include="App_Code\Models\ClsProducto.cs" />
     <Compile Include="App_Code\Utilidades\ClsErrorHandler.cs" />
@@ -213,6 +218,13 @@
     </Compile>
     <Compile Include="Root.master.designer.cs">
       <DependentUpon>Root.master</DependentUpon>
+    </Compile>
+    <Compile Include="WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs">
+      <DependentUpon>WebBiblioteca.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.designer.cs">
+      <DependentUpon>WebBiblioteca.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForms\Mantenimientos\Cliente\WebCliente.aspx.cs">
       <DependentUpon>WebCliente.aspx</DependentUpon>

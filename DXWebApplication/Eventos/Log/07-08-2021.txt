@@ -1,0 +1,92 @@
+
+Log del Error: 
+7/08/2021 12:37:32
+Error en: http://localhost:61908/WebForms/Mantenimientos/Biblioteca/WebBiblioteca.aspx | Mensaje de Error: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 43
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29 | Stack:    en System.Data.DataTableCollection.get_Item(Int32 index)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 43
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29
+__________________________
+
+Log del Error: 
+7/08/2021 18:48:06
+Error en: http://localhost:61908/WebForms/Mantenimientos/Biblioteca/WebBiblioteca.aspx | Mensaje de Error: System.IndexOutOfRangeException: No se puede encontrar la tabla 1.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29 | Stack:    en System.Data.DataTableCollection.get_Item(Int32 index)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29
+__________________________
+
+Log del Error: 
+7/08/2021 18:51:29
+Error en: http://localhost:61908/WebForms/Mantenimientos/Biblioteca/WebBiblioteca.aspx | Mensaje de Error: System.InvalidOperationException: El origen de datos no es un tipo válido. Deber ser IListSource, IEnumerable o IDataSource.
+   en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29 | Stack:    en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29
+__________________________
+
+Log del Error: 
+7/08/2021 18:52:41
+Error en: http://localhost:61908/WebForms/Mantenimientos/Biblioteca/WebBiblioteca.aspx | Mensaje de Error: System.InvalidOperationException: El origen de datos no es un tipo válido. Deber ser IListSource, IEnumerable o IDataSource.
+   en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29 | Stack:    en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29
+__________________________
+
+Log del Error: 
+7/08/2021 18:54:49
+Error en: http://localhost:61908/WebForms/Mantenimientos/Biblioteca/WebBiblioteca.aspx | Mensaje de Error: System.InvalidOperationException: El origen de datos no es un tipo válido. Deber ser IListSource, IEnumerable o IDataSource.
+   en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29 | Stack:    en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29
+__________________________
+
+Log del Error: 
+7/08/2021 19:02:47
+Error en: http://localhost:61908/WebForms/Mantenimientos/Biblioteca/WebBiblioteca.aspx | Mensaje de Error: System.InvalidOperationException: El origen de datos no es un tipo válido. Deber ser IListSource, IEnumerable o IDataSource.
+   en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29 | Stack:    en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29
+__________________________
+
+Log del Error: 
+7/08/2021 19:30:12
+Error en: http://localhost:61908/WebForms/Mantenimientos/Biblioteca/WebBiblioteca.aspx | Mensaje de Error: System.InvalidOperationException: El origen de datos no es un tipo válido. Deber ser IListSource, IEnumerable o IDataSource.
+   en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29 | Stack:    en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29
+__________________________
+
+Log del Error: 
+7/08/2021 19:31:06
+Error en: http://localhost:61908/WebForms/Mantenimientos/Biblioteca/WebBiblioteca.aspx | Mensaje de Error: System.InvalidOperationException: El origen de datos no es un tipo válido. Deber ser IListSource, IEnumerable o IDataSource.
+   en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29 | Stack:    en System.Web.UI.WebControls.DataBoundControl.ValidateDataSource(Object dataSource)
+   en System.Web.UI.WebControls.BaseDataBoundControl.set_DataSource(Object value)
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.CargaBiblioteca() en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 50
+   en DXWebApplication.WebForms.Mantenimientos.Biblioteca.WebBiblioteca.Page_Load(Object sender, EventArgs e) en C:\Users\bryan\Documents\Documentos\UMG\DesarrolloWeb\Proyecto\DXWebApplication\DXWebApplication\WebForms\Mantenimientos\Biblioteca\WebBiblioteca.aspx.cs:línea 29
+__________________________

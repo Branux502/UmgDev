@@ -1,0 +1,14 @@
+﻿#MainBiblioteca {
+
+width:100%;
+height:500px;
+display:inline-block;
+position:center;
+}
+#FormBiblioteca{
+
+    width:500px;
+    height:500px;
+    background:#ede9e3;
+    position:center;
+}
